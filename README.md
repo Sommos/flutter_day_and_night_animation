@@ -1,8 +1,6 @@
 # Flutter Day And Night Animation 
 
-<p align="center">
-    ![Preview](/intro.gif)
-</p>
+![Preview](/intro.gif)
 
 A simple application that shows a login page with a switch to allow for a day and night mode
 
